@@ -25,5 +25,5 @@ The TX can be a modern smartphone or other device running Android or iOS operati
 ![ProjectBen RX](/images/projectben_rx.png)
 
 # License
-ProjectBen is released as open source software under the terms of the Apache License 2.0.
+ProjectBen is (C) 2018 by Stefano Sanna and it is released as open source software under the terms of the Apache License 2.0.
 Attribution is *not* optional.
