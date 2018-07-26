@@ -20,6 +20,8 @@ The TX can be a modern smartphone or other device running Android or iOS operati
 - Target ID, salt and MD5 operations increase computational power needed to attack the target
 - Based on the Bluetooth Low Energy Advertising (no need to open connection. The RX radio will be never exposed)
 
+# Packet Structure
+
 ![ProjectBen TX](/images/projectben_tx.png)
 
 ![ProjectBen RX](/images/projectben_rx.png)
