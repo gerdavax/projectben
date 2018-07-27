@@ -1,6 +1,4 @@
-# ProjectBen
-
-![ProjectBen official icon](/images/projectben_official_icon.png)
+# ![ProjectBen official icon](/images/projectben_official_icon_small.png) ProjectBen
 
 ProjectBen is a protocol proposal for implementing secure one-way remote controllers based on Bluetooth Low Energy advertising packet.
 
